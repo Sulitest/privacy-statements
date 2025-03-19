@@ -22,11 +22,11 @@ The legal basis for personnal data is legitimate interest as it is impossible fo
 
 1\. We collect the following personal data on the Website:
 
-- The data necessary for registering a User and for creating an Account: an e-mail address, password, name and surname, birth date, country of origin, time zone, and type of entity (an individual user/an organization). Such data is required for the correct configuration of an Account and for establishing contact with a User, if need be;
+- The data necessary for registering a User and for creating an Account: an e-mail address, password, name and surname, birth date, nationality, time zone, and type of entity (an individual user/an organization). Such data is required for the correct configuration of an Account and for establishing contact with a User, if need be;
 - Data required for providing services to a User or to a Respondent, the contents of which may change depending on the service provided or on the nature of an online Test. This may include a residence or address, phone number, education, profession, and the data contained within the online Tests;
 - Data required to proceed with the complaint process — name and surname, as well as a User's or Respondent's e-mail address, the device's IP address, Tax Identification Number — which we require from those requesting an invoice who have a Tax Identification Number number;
 - Information resulting from the general principles of Internet connections, such as an IP address (as well as other information contained within the system logs), which is used by the Website administrator for technical purposes. IP addresses may also be used for statistical purposes, including the collection of general demographic information (e.g., determining the region in which the connection is made).
-- Personal Data: Date of birth, country, gender.
+- Personal Data: Date of birth, nationality, gender.
 
 This data is collected exclusively for research purposes. It will be processed entirely anonymously, meaning no individual identifier will be associated with this information. The goal of this collection is to analyze the demographic data of users and identify potential correlations with the results obtained during tests.
 ‍Email Address: Your email address is primarily used to authenticate you and allow you to access your account. It can also be used to send you important notifications about the service, such as updates or information related to your account.

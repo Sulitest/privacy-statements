@@ -13,14 +13,7 @@ Partage d'informations pour les enquêtes sur la tricherie : En cas de suspicion
 Ces données peuvent inclure, mais ne sont pas limitées à, des horodatages d'activités suspectes, des captures d'écran prises pendant l'évaluation, ainsi que des extraits de l'enregistrement vidéo ou audio démontrant le comportement suspecté.
 En utilisant les outils Sulitest, vous acceptez explicitement l'enregistrement de votre webcam, microphone et activité d'écran pendant le test. (cf section 6.3)
 ‍
-3\. **Finalité de la collecte de données**  
-Données à caractère personnel: Date de naissance, pays, genre
-Ces données sont collectées à des fins de recherche exclusivement. Elles seront traitées de manière entièrement anonyme, c'est-à-dire qu'aucun identifiant individuel ne sera associé à ces informations. L'objectif de cette collecte est d'analyser les données démographiques des utilisateurs et d'identifier d'éventuelles corrélations avec les résultats obtenus lors des tests.
-‍Adresse électronique: Votre adresse électronique est principalement utilisée pour vous authentifier et vous permettre d'accéder à votre compte. Elle peut également servir à vous envoyer des notifications importantes concernant le service, telles que des mises à jour ou des informations relatives à votre compte.
-‍Interactions avec l'appareil utilisé pour le test durant le test: Les données collectées lors de vos interactions avec la machine (cf section 6.3) sont essentielles garantir l'équité de tous les candidats en surveillant le bon fonctionnement du service et d'identifier d'éventuels problèmes techniques.
-Intérêt légitime : La conservation de vos données nous permet de vous offrir une meilleure expérience utilisateur, de vous fournir un service de qualité et de répondre à vos besoins de manière efficace.
-‍
-4\. **Définition de la tricherie :**  
+3\. **Définition de la tricherie :**  
 La tricherie est définie par l'utilisation des méthodes suivantes lors de la passation de TASK :
 
 - Réalisation de l'évaluation avec une collaboration ou l'utilisation de matériaux ou ressources externes.
@@ -30,9 +23,10 @@ La tricherie est définie par l'utilisation des méthodes suivantes lors de la p
 - L'utilisation de ressources telles que des manuels, d'autres personnes, des appareils électroniques, l'IA, des sites tiers ou toute autre ressource pendant l'évaluation ou les pauses.
 - Tout Compte reconnu coupable des activités susmentionnées sera immédiatement suspendu ou supprimé.
 
-5\. **Comment le consentement est recueilli :**
+4\. **Comment le test est surveillé à distance:**
 Avant le début d'un test surveillé, les utilisateurs seront invités à activer leur webcam et leur microphone et devront accepter ces conditions pour pouvoir passer le test.
-Sans consentement, les utilisateurs ne pourront pas participer à l'évaluation surveillée. Les utilisateurs qui ne disposent pas d'une webcam ou d'un microphone peuvent participer à l'évaluation surveillée. L'accès et l'utilisation de ces services sont régis par les présentes conditions générales ("Conditions générales").
+Sans consentement, les utilisateurs passeront le test dans d'autres conditions de surveillance.
+Les utilisateurs qui ne disposent pas d'une webcam ou d'un microphone peuvent participer à l'évaluation surveillée. L'accès et l'utilisation de ces services sont régis par les présentes conditions générales ("Conditions générales").
 En accédant à ces services, vous consentez à être lié par les conditions générales, et reconnaissez et acceptez leurs termes. En utilisant ces services, vous déclarez également être légalement en mesure de conclure un contrat.
 
 ## II. Utilisateur
@@ -226,3 +220,5 @@ Cette section est détaillée dans la politique de confidentialité (section II)
 1. Tout différend entre les Parties sera réglé à l’amiable. Cependant, s'il n'est pas possible de régler un différend de manière amiable, le tribunal compétent sera le tribunal local du siège du Prestataire de Services.
 2. Sulitest Impact se réserve, dans la mesure permise par la réglementation applicable, le droit d'apporter des modifications aux Conditions Générales en cas de raisons importantes liées à l'aspect technique ou substantiel du fonctionnement des Services. Les modifications seront publiées de manière continue sur les Services du Prestataire de Services.
 3. Les Conditions Générales entrent en vigueur le 1er janvier 2025.
+
+Version: 032025

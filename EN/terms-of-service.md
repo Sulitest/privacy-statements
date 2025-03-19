@@ -11,14 +11,7 @@ If the User agrees to these Terms on behalf of a company or another legal entity
 By using Sulitest tools, you explicitly agree to the recording of your webcam, microphone and screen activity during the test. The data captured is used to maintain the integrity of the assessment process by detecting any possible cheating.
 Sharing Information for Cheating Investigations: In the event of a suspected cheating incident, Sulitest may share a limited set of data points with the organization administering the test session. This data may include, but is not limited to, timestamps of suspicious activity, screenshots captured during the assessment, and excerpts from the video or audio recording that demonstrate the suspected behavior.
 
-3\. **Purpose of Data Collection**  
-Personal Data: Date of birth, country, gender
-This data is collected exclusively for research purposes. It will be processed entirely anonymously, meaning no individual identifier will be associated with this information. The goal of this collection is to analyze the demographic data of users and identify potential correlations with the results obtained during tests.
-‍Email Address: Your email address is primarily used to authenticate you and allow you to access your account. It can also be used to send you important notifications about the service, such as updates or information related to your account.
-‍Interactions with the device used during the test: The data collected during your interactions with the device (see section 6.3) is essential to ensure fairness for all candidates by monitoring the proper functioning of the service and identifying any potential technical issues.
-‍Legitimate Interest: The retention of your data allows us to offer you a better user experience, provide you with a quality service, and meet your needs effectively.
-
-4\. **Definition of cheating:**
+3\. **Definition of cheating:**
 Cheating is defined by the use of the following methods when taking TASK:
 
 - Completion of the assessment with collaboration or with the use of external materials or resources.
@@ -28,11 +21,11 @@ Cheating is defined by the use of the following methods when taking TASK:
 - The use of resources such as textbooks, other people, electronic devices, AI, third party websites or any other resources during the assessment or break(s)
 - Any Account found to be committing the above-mentioned activities will be immediately suspended or deleted.
 
-5\. **How consent is collected:**
+4\. **How the assessment is proctored remotely:**
 
-Prior to the start of proctored test, users will be prompted to activate their webcam and microphone and must agree to these terms in order to proceed with the test. Without consent, users will not be able to participate in the proctored assessment.
-Uers who do not have a webcam or microphone are able to participate in the proctored assessment.
-Sulitest Impact provides access to this website and its services . Access to and use of those services is governed by these terms and conditions (“Terms and Conditions”). By accessing these service, you consent to be bound by the terms and conditions, and your acknowledgment of, and agreement to its terms. By using these services you also represent that you are legally able to enter into a contract.
+Prior to the start of proctored test, users will be prompted to activate their webcam and microphone and must agree to these terms in order to proceed with the test. Without consent, users will have to take the assessment under different conditions.
+Sulitest Impact provides access to this website and its services.
+Access to and use of those services is governed by these terms and conditions (“Terms and Conditions”). By accessing these service, you consent to be bound by the terms and conditions, and your acknowledgment of, and agreement to its terms. By using these services you also represent that you are legally able to enter into a contract.
 
 ## II. User
 
@@ -234,3 +227,5 @@ This section is detailed in the Privacy policy section II.
 1. Any disputes between the Parties will be settled amicably. However, if there is no possibility of settling a dispute amicably, the competent Court will be the local court for the seat of the Service Provider.
 2. Sulitest Impact reserves, to the extent which is permissible in compliance with the applicable regulations, the right to make changes and modifications of the Terms and Conditions in case of the occurrence of significant reasons related to the technical or substantive aspect of the operation of the Services. The changes will be published on an ongoing basis on the Service Provider's Services.
 3. The Terms and Conditions are valid beginning on January 1st, 2025.
+
+Version: 032025
