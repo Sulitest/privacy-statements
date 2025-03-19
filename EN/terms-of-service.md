@@ -11,14 +11,7 @@ If the User agrees to these Terms on behalf of a company or another legal entity
 By using Sulitest tools, you explicitly agree to the recording of your webcam, microphone and screen activity during the test. The data captured is used to maintain the integrity of the assessment process by detecting any possible cheating.
 Sharing Information for Cheating Investigations: In the event of a suspected cheating incident, Sulitest may share a limited set of data points with the organization administering the test session. This data may include, but is not limited to, timestamps of suspicious activity, screenshots captured during the assessment, and excerpts from the video or audio recording that demonstrate the suspected behavior.
 
-3\. **Purpose of Data Collection**  
-Personal Data: Date of birth, country, gender
-This data is collected exclusively for research purposes. It will be processed entirely anonymously, meaning no individual identifier will be associated with this information. The goal of this collection is to analyze the demographic data of users and identify potential correlations with the results obtained during tests.
-‍Email Address: Your email address is primarily used to authenticate you and allow you to access your account. It can also be used to send you important notifications about the service, such as updates or information related to your account.
-‍Interactions with the device used during the test: The data collected during your interactions with the device (see section 6.3) is essential to ensure fairness for all candidates by monitoring the proper functioning of the service and identifying any potential technical issues.
-‍Legitimate Interest: The retention of your data allows us to offer you a better user experience, provide you with a quality service, and meet your needs effectively.
-
-4\. **Definition of cheating:**
+3\. **Definition of cheating:**
 Cheating is defined by the use of the following methods when taking TASK:
 
 - Completion of the assessment with collaboration or with the use of external materials or resources.
@@ -27,12 +20,13 @@ Cheating is defined by the use of the following methods when taking TASK:
 - Trying to find vulnerabilities in the system
 - The use of resources such as textbooks, other people, electronic devices, AI, third party websites or any other resources during the assessment or break(s)
 - Any Account found to be committing the above-mentioned activities will be immediately suspended or deleted.
+- In case of suspicion of cheating, Sulitest reserves the right to suspend accesses to scores and certificates emitted.
 
-5\. **How consent is collected:**
+4\. **How the assessment is proctored remotely:**
 
-Prior to the start of proctored test, users will be prompted to activate their webcam and microphone and must agree to these terms in order to proceed with the test. Without consent, users will not be able to participate in the proctored assessment.
-Uers who do not have a webcam or microphone are able to participate in the proctored assessment.
-Sulitest Impact provides access to this website and its services . Access to and use of those services is governed by these terms and conditions (“Terms and Conditions”). By accessing these service, you consent to be bound by the terms and conditions, and your acknowledgment of, and agreement to its terms. By using these services you also represent that you are legally able to enter into a contract.
+Prior to the start of proctored test, users will be prompted to activate their webcam and microphone and must agree to these terms in order to proceed with the test. Without consent, users will have to take the assessment under different conditions.
+Sulitest Impact provides access to this website and its services.
+Access to and use of those services is governed by these terms and conditions (“Terms and Conditions”). By accessing these service, you consent to be bound by the terms and conditions, and your acknowledgment of, and agreement to its terms. By using these services you also represent that you are legally able to enter into a contract.
 
 ## II. User
 
@@ -107,11 +101,11 @@ The Services are provided exclusively to persons. Accounts registered by "bots" 
 6\. **Entrustment of Personal Data**  
 This paragraph is detailed in the Privacy policy (section 1)
 
-## 3. Data Retention and Deletion
+## III. Data Retention and Deletion
 
 This section is detailed in the Privacy Policy (section III)
 
-## ‍ 4. Data Security
+## ‍IV. Data Security
 
 We take the security of your data seriously. The following measures are in place to protect your recorded video and audio:
 
@@ -119,7 +113,7 @@ We take the security of your data seriously. The following measures are in place
 - Encryption at rest: All recorded data is stored using encryption to prevent unauthorized access.
 - Access Restrictions: Only authorized personnel, including proctors or investigators, will have access to the recorded data, and only for the purposes outlined above.
 
-## 5. Rights and Obligations
+## V. Rights and Obligations
 
 ‍
 1\. **User's obligations**
@@ -154,7 +148,7 @@ We take the security of your data seriously. The following measures are in place
 9. Users may use the following e-mail address, support@sulitest.org to report any content which blatantly violates the provisions of the Terms and Conditions.
    ‍
 
-## 6. Assessment administration locations
+## VI. Assessment administration locations
 
 We offer different types of environments for administering assessments, each designed to meet various testing needs while ensuring security and integrity. Below are descriptions of the three types of locations where assessments may be conducted
 ‍
@@ -191,11 +185,11 @@ We offer different types of environments for administering assessments, each des
    - Adequate lighting
    - An unobstructed and properly positioned device camera (if applicable)
 
-## 7. Data privacy for education institutions
+## VII. Data privacy for education institutions
 
 This section is detailed in the Privacy policy section II.
 
-## 8. Copyrights and liability
+## VIII. Copyrights and liability
 
 ‍
 
@@ -229,8 +223,10 @@ This section is detailed in the Privacy policy section II.
 8.  The User is obliged to repair the damage which the second party has suffered as a result of non-performance or incorrect performance of the duties outlined in the Terms and Conditions and the commonly applicable norms by the Users, unless their non-performance or incorrect performance was a result of circumstances for which the User is not liable.
 9.  The Service Provider is not liable for any damage resulting from the cessation of the provision of the Services to a User who is violating the Terms and Conditions, this includes damage resulting from the deletion of the Account of the User who is violating the Terms and Conditions.
 
-## 9. Final Provisions
+## IX. Final Provisions
 
 1. Any disputes between the Parties will be settled amicably. However, if there is no possibility of settling a dispute amicably, the competent Court will be the local court for the seat of the Service Provider.
 2. Sulitest Impact reserves, to the extent which is permissible in compliance with the applicable regulations, the right to make changes and modifications of the Terms and Conditions in case of the occurrence of significant reasons related to the technical or substantive aspect of the operation of the Services. The changes will be published on an ongoing basis on the Service Provider's Services.
 3. The Terms and Conditions are valid beginning on January 1st, 2025.
+
+Version: 032025

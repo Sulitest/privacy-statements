@@ -13,14 +13,7 @@ Partage d'informations pour les enquêtes sur la tricherie : En cas de suspicion
 Ces données peuvent inclure, mais ne sont pas limitées à, des horodatages d'activités suspectes, des captures d'écran prises pendant l'évaluation, ainsi que des extraits de l'enregistrement vidéo ou audio démontrant le comportement suspecté.
 En utilisant les outils Sulitest, vous acceptez explicitement l'enregistrement de votre webcam, microphone et activité d'écran pendant le test. (cf section 6.3)
 ‍
-3\. **Finalité de la collecte de données**  
-Données à caractère personnel: Date de naissance, pays, genre
-Ces données sont collectées à des fins de recherche exclusivement. Elles seront traitées de manière entièrement anonyme, c'est-à-dire qu'aucun identifiant individuel ne sera associé à ces informations. L'objectif de cette collecte est d'analyser les données démographiques des utilisateurs et d'identifier d'éventuelles corrélations avec les résultats obtenus lors des tests.
-‍Adresse électronique: Votre adresse électronique est principalement utilisée pour vous authentifier et vous permettre d'accéder à votre compte. Elle peut également servir à vous envoyer des notifications importantes concernant le service, telles que des mises à jour ou des informations relatives à votre compte.
-‍Interactions avec l'appareil utilisé pour le test durant le test: Les données collectées lors de vos interactions avec la machine (cf section 6.3) sont essentielles garantir l'équité de tous les candidats en surveillant le bon fonctionnement du service et d'identifier d'éventuels problèmes techniques.
-Intérêt légitime : La conservation de vos données nous permet de vous offrir une meilleure expérience utilisateur, de vous fournir un service de qualité et de répondre à vos besoins de manière efficace.
-‍
-4\. **Définition de la tricherie :**  
+3\. **Définition de la tricherie :**  
 La tricherie est définie par l'utilisation des méthodes suivantes lors de la passation de TASK :
 
 - Réalisation de l'évaluation avec une collaboration ou l'utilisation de matériaux ou ressources externes.
@@ -29,10 +22,11 @@ La tricherie est définie par l'utilisation des méthodes suivantes lors de la p
 - Essayer de trouver des vulnérabilités dans le système.
 - L'utilisation de ressources telles que des manuels, d'autres personnes, des appareils électroniques, l'IA, des sites tiers ou toute autre ressource pendant l'évaluation ou les pauses.
 - Tout Compte reconnu coupable des activités susmentionnées sera immédiatement suspendu ou supprimé.
+- Dans le cas d'une suspicion de triche, Sulitest se réserve le droit de suspendre l'accès à tout certificat ou score délivré.
 
-5\. **Comment le consentement est recueilli :**
+4\. **Comment le test est surveillé à distance:**
 Avant le début d'un test surveillé, les utilisateurs seront invités à activer leur webcam et leur microphone et devront accepter ces conditions pour pouvoir passer le test.
-Sans consentement, les utilisateurs ne pourront pas participer à l'évaluation surveillée. Les utilisateurs qui ne disposent pas d'une webcam ou d'un microphone peuvent participer à l'évaluation surveillée. L'accès et l'utilisation de ces services sont régis par les présentes conditions générales ("Conditions générales").
+Sans consentement, les utilisateurs passeront le test dans d'autres conditions de surveillance.
 En accédant à ces services, vous consentez à être lié par les conditions générales, et reconnaissez et acceptez leurs termes. En utilisant ces services, vous déclarez également être légalement en mesure de conclure un contrat.
 
 ## II. Utilisateur
@@ -108,12 +102,12 @@ En complétant l'inscription aux Services, l'Utilisateur déclare qu'il est prê
 ‍6\. **Délégation des données personnelles**  
 Ce paragraph est détaillé dans l'introduction de la politique de confidentialité
 
-## 3. Conservation et Suppression des Données
+## III. Conservation et Suppression des Données
 
 Cette section est détaillée dans la politique de confidentialité ( section III)
 ‍
 
-## 4. Sécurité des Données
+## IV. Sécurité des Données
 
 Nous prenons la sécurité de vos données très au sérieux. Les mesures suivantes sont mises en place pour protéger vos enregistrements vidéo et audio :
 
@@ -121,7 +115,7 @@ Nous prenons la sécurité de vos données très au sérieux. Les mesures suivan
 - Chiffrement au repos : Toutes les données enregistrées sont stockées de manière chiffrée afin de prévenir tout accès non autorisé.
 - Restrictions d’accès : Seul le personnel autorisé, y compris les surveillants ou les enquêteurs, aura accès aux données enregistrées, et uniquement aux fins décrites ci-dessus.
 
-## 5. Droits et Obligations
+## V. Droits et Obligations
 
 1\. **Obligations de l’Utilisateur**
 
@@ -154,7 +148,7 @@ Nous prenons la sécurité de vos données très au sérieux. Les mesures suivan
 8.  Le Prestataire de Services se réserve le droit de limiter complètement l'accès de l'Utilisateur aux fonctions des Services et aux Tests en ligne, ainsi qu'aux résultats collectés des Tests une fois que les Services Payants ont expiré.
 9.  Les Utilisateurs peuvent utiliser l'adresse e-mail suivante, support@sulitest.org, pour signaler tout contenu qui viole manifestement les dispositions des Conditions Générales.
 
-## 6. Lieux d’administration des évaluations
+## VI. Lieux d’administration des évaluations
 
 Nous offrons différents types d'environnements pour administrer des évaluations, chacun conçu pour répondre à divers besoins de test tout en garantissant la sécurité et l'intégrité. Vous trouverez ci-dessous les descriptions des trois types de lieux où les évaluations peuvent être effectuées.
 
@@ -186,11 +180,11 @@ Nous offrons différents types d'environnements pour administrer des évaluation
    - Bonne luminosité
    - Camera de l'appareil non obstruée et positionnée correctement (si applicable)
 
-## 7. Protection des données pour les institutions éducatives
+## VII. Protection des données pour les institutions éducatives
 
 Cette section est détaillée dans la politique de confidentialité (section II)
 
-## 8. Droits d'auteur et responsabilité
+## VIII. Droits d'auteur et responsabilité
 
 1\. **Droits d'auteur**
 
@@ -221,8 +215,10 @@ Cette section est détaillée dans la politique de confidentialité (section II)
 8.  L'Utilisateur est tenu de réparer les dommages subis par l'autre partie en raison de la non-exécution ou de l'exécution incorrecte des obligations énoncées dans les Conditions Générales et les normes communément applicables par les Utilisateurs, sauf si leur non-exécution ou exécution incorrecte résulte de circonstances pour lesquelles l'Utilisateur n'est pas responsable.
 9.  Le Prestataire de Services n'est pas responsable des dommages résultant de la cessation de la fourniture des Services à un Utilisateur violant les Conditions Générales, y compris les dommages résultant de la suppression du Compte de l'Utilisateur en infraction.
 
-## 9. Dispositions finales
+## IX. Dispositions finales
 
 1. Tout différend entre les Parties sera réglé à l’amiable. Cependant, s'il n'est pas possible de régler un différend de manière amiable, le tribunal compétent sera le tribunal local du siège du Prestataire de Services.
 2. Sulitest Impact se réserve, dans la mesure permise par la réglementation applicable, le droit d'apporter des modifications aux Conditions Générales en cas de raisons importantes liées à l'aspect technique ou substantiel du fonctionnement des Services. Les modifications seront publiées de manière continue sur les Services du Prestataire de Services.
 3. Les Conditions Générales entrent en vigueur le 1er janvier 2025.
+
+Version: 032025
