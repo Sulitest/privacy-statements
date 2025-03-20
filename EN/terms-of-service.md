@@ -20,6 +20,7 @@ Cheating is defined by the use of the following methods when taking TASK:
 - Trying to find vulnerabilities in the system
 - The use of resources such as textbooks, other people, electronic devices, AI, third party websites or any other resources during the assessment or break(s)
 - Any Account found to be committing the above-mentioned activities will be immediately suspended or deleted.
+- In case of suspicion of cheating, Sulitest reserves the right to suspend accesses to scores and certificates emitted.
 
 4\. **How the assessment is proctored remotely:**
 

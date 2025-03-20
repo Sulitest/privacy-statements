@@ -22,6 +22,7 @@ La tricherie est définie par l'utilisation des méthodes suivantes lors de la p
 - Essayer de trouver des vulnérabilités dans le système.
 - L'utilisation de ressources telles que des manuels, d'autres personnes, des appareils électroniques, l'IA, des sites tiers ou toute autre ressource pendant l'évaluation ou les pauses.
 - Tout Compte reconnu coupable des activités susmentionnées sera immédiatement suspendu ou supprimé.
+- Dans le cas d'une suspicion de triche, Sulitest se réserve le droit de suspendre l'accès à tout certificat ou score délivré.
 
 4\. **Comment le test est surveillé à distance:**
 Avant le début d'un test surveillé, les utilisateurs seront invités à activer leur webcam et leur microphone et devront accepter ces conditions pour pouvoir passer le test.
