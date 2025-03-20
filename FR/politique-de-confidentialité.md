@@ -31,7 +31,6 @@ La base juridique du traitement des données personnelles est l'intérêt légit
 Ces données sont collectées exclusivement à des fins de recherche. Elles seront traitées de manière entièrement anonyme, ce qui signifie qu'aucun identifiant individuel ne sera associé à ces informations. L'objectif de cette collecte est d'analyser les données démographiques des utilisateurs et d'identifier les corrélations potentielles avec les résultats obtenus lors des tests.
 Adresse Email : Votre adresse email est principalement utilisée pour vous authentifier et vous permettre d'accéder à votre compte. Elle peut également être utilisée pour vous envoyer des notifications importantes concernant le service, telles que des mises à jour ou des informations relatives à votre compte.Interactions avec l'appareil utilisé pendant le test :
 Les données collectées lors de vos interactions avec l'appareil (voir la section 6.3 des CGU) sont essentielles pour garantir l'équité pour tous les candidats en surveillant le bon fonctionnement du service et en identifiant les éventuels problèmes techniques.
-Intérêt Légitime : La conservation de vos données nous permet de vous offrir une meilleure expérience utilisateur, de vous fournir un service de qualité et de répondre efficacement à vos besoins.
 
 2\. La fourniture des données mentionnées ci-dessus est nécessaire dans les cas spécifiés, notamment :
 
@@ -41,9 +40,7 @@ Intérêt Légitime : La conservation de vos données nous permet de vous offrir
 
 3\. Les cookies fonctionnels sont strictement nécessaires pour activer ou faciliter la communication par voie électronique et sont indispensables à la fourniture des Services demandés par les utilisateurs. Les cookies de marketing et d'analyse optionnels sont toujours désactivés par défaut.
 
-4\. Les données personnelles de l'Utilisateur sont traitées par notre société en tant que Responsable de traitement afin de mettre en œuvre les services que nous rendons à l'Utilisateur (c’est-à-dire les personnes concernées par les données), et qui sont offerts dans le cadre des Services. Conformément au principe de minimisation des données, nous ne traitons que les catégories de données personnelles nécessaires pour atteindre les objectifs mentionnés dans la phrase précédente.
-
-5\. Concernant les données personnelles des Utilisateurs, le Responsable de traitement est l'entité qui traite les données personnelles sur la base d'un accord conclu avec l'Utilisateur. Dans un tel cas, le Responsable des données est un Utilisateur qui collecte les données via des Tests en ligne.
+4\. Les données personnelles de l'Utilisateur sont traitées par notre société en tant que Responsable de traitement conjoint afin de mettre en œuvre les services que nous rendons à l'Utilisateur (c’est-à-dire les personnes concernées par les données), et qui sont offerts dans le cadre des Services. Conformément au principe de minimisation des données, nous ne traitons que les catégories de données personnelles nécessaires pour atteindre les objectifs mentionnés dans la phrase précédente.
 
 6\. En tant qu'utilisateur du Site, il vous incombe de choisir si, et dans quelle mesure, vous souhaitez utiliser les Services et partager des informations et des données vous concernant dans le cadre défini par cette Politique de Confidentialité.
 
@@ -51,13 +48,17 @@ Intérêt Légitime : La conservation de vos données nous permet de vous offrir
 
 8\. Les sources des données personnelles traitées par le Responsable des données personnelles sont les personnes concernées par les données.
 
-9\. L'article suivant est la base du traitement de vos données personnelles ; Art. 6 par. 1, let. a du RGPD, c'est-à-dire que la personne concernée a donné son consentement pour le traitement de ses données personnelles pour un ou plusieurs objectifs spécifiques ; où les objectifs sont décrits dans les Conditions d'Utilisation.
+9\. L'article suivant est la base du traitement de vos données:
+
+1. La base légale pour traiter les données d'identification est la nécessité de traiter ces données afin de procéder à la bonne exécution du contrat entre Sulitest et l'Organisation.
+2. La base légale pour traiter les données techniques est l'intérêt légitime afin d'assurer le bon usage et les performances des plateformes Sulitest.
+
 10\. Pour fournir les Services, nous faisons appel à des sous-traitants de données, qui traitent différentes catégories de données. Les sous-traitants ne stockent jamais les données en dehors de leur objectif spécifique.
 
 1. La gestion des données est assurée par notre partenaire informatique, ALEAUR (209b Avenue Charles de Gaulle 92200 Neuilly-sur-Seine - SIRET 411 893 167 00014), conformément à la législation en vigueur. Les données de la plateforme Sulitest sont stockées dans deux centres informatiques sécurisés, situés en France et certifiés ISO 27001, OHSAS 18001, ISO 22301, ISO 14001, SSAE16/ISAE 3401 SOCs, PCI-DSS, ISO9001, ISO 50001, HDA/HADS.
 2. En cas de transfert des données personnelles vers un pays tiers ou une organisation internationale, la société s'engage à mettre en place les clauses contractuelles types de l'UE pour tout transfert et à les rendre disponibles aux utilisateurs.
 
-11\. Nous ne communiquons aucune donnée personnelle à des tiers sans le consentement explicite de la personne concernée par les données. Sans le consentement de la personne concernée par les données personnelles, celles-ci ne peuvent être transmises qu'aux organismes régis par le droit public (par exemple, les autorités fiscales, les autorités chargées de l'application de la loi, ainsi qu'à d'autres entités autorisées par les dispositions générales de la loi).
+11\. Nous ne communiquons, ne vendons ou partageons aucune donnée personnelle à des tiers pour des finalités autres que le test, sauf obligation légale.
 
 12\. Les données personnelles peuvent être confiées pour traitement aux sous-traitants de ces données au nom de notre société en tant que Responsable de traitement. Dans un tel cas, en tant que Responsable de traitement, nous concluons un accord d'entente avec le sous-traitant pour le traitement des données personnelles. Le sous-traitant traite les données personnelles confiées uniquement aux fins, dans la portée, et selon les objectifs indiqués dans l'accord d'entente mentionné dans la phrase précédente. Sans confier vos données personnelles pour traitement, nous ne serions pas en mesure de mener nos activités via les Services. En tant que Responsable de traitement, nous confions les données personnelles aux entités suivantes pour traitement :
 
@@ -70,7 +71,7 @@ Intérêt Légitime : La conservation de vos données nous permet de vous offrir
    5. Limiter le traitement visé à l'art. 18 du RGPD ;
    6. Transférer les données visées à l'art. 20 du RGPD ;
    7. S'opposer au traitement des données personnelles, visé à l'art. 21 du RGPD ;
-   8. En cas de base légale : Le droit de retirer le consentement à tout moment sans aucune influence sur la conformité avec le droit de traitement, qui a été effectué sur la base du consentement avant son retrait ;
+   8. Si la base légale est le consentement : Le droit de retirer le consentement à tout moment sans aucune influence sur la conformité avec le droit de traitement, qui a été effectué sur la base du consentement avant son retrait ;
    9. Ne pas faire l'objet de profilage, visé à l'art. 22, conjointement à l'art. 4 par. 4 du RGPD ;
    10. Déposer une plainte auprès d'une autorité de contrôle visée à l'art. 77 du RGPD. L'autorité de contrôle de la France, État membre de la société, est la CNIL.
 
@@ -79,17 +80,15 @@ Si vous souhaitez exercer vos droits visés dans le paragraphe précédent, vous
 
 14\. Toute demande, requête, et plainte relative au traitement des données personnelles par le Responsable de traitement, ci-après dénommées les Requêtes, doivent être envoyées à l'adresse e-mail suivante : support@sulitest.org.
 
-15\. Sulitest ne partagera jamais le score des candidats sans leur consentement. Sulitest se réserve le droit d'utiliser les scores des candidats anonymisés à des fins d'analyses de tendances.
+15\. Chaque violation de sécurité identifiée est documentée et en cas de survenue d'une des situations décrites dans les dispositions du RGPD, l'autorité de contrôle concernée sera notifiée. L'information aux sujets des données concernant une violation de sécurité identifiée est évaluée en fonction de l'impact de la notification de la violation.
 
-16\. Chaque violation de sécurité identifiée est documentée et en cas de survenue d'une des situations décrites dans les dispositions du RGPD, l'autorité de contrôle concernée sera notifiée. L'information aux sujets des données concernant une violation de sécurité identifiée est évaluée en fonction de l'impact de la notification de la violation.
+16\. Tous les mots en lettres majuscules ont le sens qui leur est attribué par les Conditions Générales du Site, sauf indication contraire dans la présente Politique de Confidentialité.
 
-17\. Tous les mots en lettres majuscules ont le sens qui leur est attribué par les Conditions Générales du Site, sauf indication contraire dans la présente Politique de Confidentialité.
+17\. Les dispositions de cette Politique de Confidentialité s'appliquent, dans la mesure du possible, à toutes les personnes avec lesquelles nous entretenons des relations juridiques, et à celles pour lesquelles nous sommes le Responsable de leurs données personnelles (c’est-à-dire nos Utilisateurs).
 
-18\. Les dispositions de cette Politique de Confidentialité s'appliquent, dans la mesure du possible, à toutes les personnes avec lesquelles nous entretenons des relations juridiques, et à celles pour lesquelles nous sommes le Responsable de leurs données personnelles (c’est-à-dire nos Utilisateurs).
+18\. Pour toutes les questions non régies par cette Politique de Confidentialité, les dispositions légales applicables seront appliquées. En cas de non-conformité de certaines dispositions de cette Politique avec la réglementation légale, les dispositions de la réglementation légale s'appliqueront.
 
-19\. Pour toutes les questions non régies par cette Politique de Confidentialité, les dispositions légales applicables seront appliquées. En cas de non-conformité de certaines dispositions de cette Politique avec la réglementation légale, les dispositions de la réglementation légale s'appliqueront.
-
-20\. Nous nous réservons le droit de revoir et de modifier périodiquement cette politique et informerons les utilisateurs ayant activé la préférence de notification des changements apportés à notre politique de confidentialité.
+19\. Nous nous réservons le droit de revoir et de modifier périodiquement cette politique et informerons les utilisateurs ayant activé la préférence de notification des changements apportés à notre politique de confidentialité.
 
 ## II - Protection des données pour les institutions éducatives
 
@@ -97,23 +96,21 @@ Les données collectées sont uniquement recueillies pour assurer une bonne surv
 
 ### 1. Protection des données pour les évaluations administrées en classe
 
-Afin de garantir la validité de vos résultats de test, Sulitest Impact requiert votre consentement pour collecter les données personnelles mentionnées ci-dessus afin d’assurer la sécurité, l'intégrité et la validité du test en prévenant les fraudes ou comportements frauduleux.
-Les données supplémentaires suivantes seront collectées et traitées :
+Les données suivantes seront collectées et traitées:
 
-- Événements de perte de focus
+- Changement de page
 
 ### 2. Protection des données pour les évaluations administrées en environnement contrôlé
 
-Afin de garantir la validité de vos résultats de test, Sulitest Impact requiert votre consentement pour collecter les données personnelles mentionnées ci-dessus afin d’assurer la sécurité, l'intégrité et la validité du test en prévenant les fraudes ou comportements frauduleux.
-Les données supplémentaires suivantes seront collectées et traitées :
+Les données supplémentaires par rapport au point II.1. seront collectées et traitées :
 
-- Activité de la sourisÉvénements d’activité de l’écran
+- Activité de la souris
+- Événements d’activité de l’écran
 - Événements de touches spécifiques (Copier & coller, captures d'écran ...)
 
 ### 3. Protection des données pour les évaluations administrées à distance
 
-Afin de garantir la validité de vos résultats de test, Sulitest Impact requiert votre consentement pour collecter les données personnelles mentionnées ci-dessus afin d’assurer la sécurité, l'intégrité et la validité du test en prévenant les fraudes ou comportements frauduleux.
-Les données supplémentaires suivantes seront collectées et traitées en plus de celles collectées en environnement contrôlé :
+Les données supplémentaires par rapport au point II.2. seront collectées et traitées:
 
 - Captures d’écran
 - Vidéo de l’application web TASK - en cas de comportement suspicieux
@@ -137,11 +134,11 @@ En appliquant ces mesures de sécurité, nous garantissons que vos données sont
 
 1. **Données applicatives**  
    Nous conservons vos données personnelles pendant une durée limitée et strictement nécessaire à la réalisation des finalités pour lesquelles elles ont été collectées.
-   ‍Dans le cadre de TASK, nous conservons vos données pendant une durée de 4 ans. Ce délai correspond à la durée de validité de votre certificat TASK auquel s'ajoute une année supplémentaire, afin de répondre à d'éventuelles demandes d'accès au certificat ou de repassage du certificat.
-   Les données des candidats sont conservées même en cas d'arrêt d'utilisation du service par l'organisation qui invite le candidat. Les données du candidat ne seront supprimées que en cas de demande explicite du candidat.
-   La conservation de vos données nous permet de vous offrir une meilleure expérience utilisateur, de vous fournir un service de qualité et de répondre à vos besoins de manière efficace.
+   ‍Dans le cadre de TASK, nous conservons vos données pendant une durée de 4 ans à partir du moment où les résultats au test sont rendus. Ce délai correspond à la durée de validité de votre certificat TASK auquel s'ajoute une année supplémentaire, afin de répondre à d'éventuelles demandes d'accès au certificat ou de repassage du certificat.
 2. **Données de surveillance**
    Toutes les données enregistrées (vidéo, audio, ....) seront conservées de manière sécurisée pendant une période de 90 jours après la fin de l’évaluation. Passé ce délai, les enregistrements seront définitivement supprimés, sauf si elles sont nécessaires pour une enquête ou un litige en cours.Conservation Prolongée pour les Enquêtes : Si un incident de tricherie est suspecté, les données enregistrées peuvent être conservées pendant la durée de l’enquête et des éventuelles procédures judiciaires.Vous pouvez à tout moment demander la suppression de vos données en contactant notre Délégué à la Protection des Données à robin@sulitest.org. La demande sera traitée dans un délai d'une semaine et, sauf si les enregistrements sont nécessaires pour une enquête, les données seront supprimées dans un délai de 30 jours.
 3. **Droit d'opposition**  
    Vous avez le droit de vous opposer au traitement de vos données personnelles pour des raisons d’intérêts légitimes, y compris le profilage. Si vous vous y opposez, nous cesserons de traiter vos données, sauf si nous avons des motifs légitimes impérieux qui prévalent sur vos intérêts, droits et libertés, ou si le traitement est nécessaire pour la constatation, l'exercice ou la défense de droits en justice. Si vous vous opposez au traitement de vos données personnelles, il est possible que nous ne puissions plus vous proposer le service d’évaluation, car ce traitement est nécessaire pour assurer l'intégrité des tests. Cependant, nous examinerons toutes les objections pour déterminer si nous pouvons répondre favorablement à votre demande tout en respectant nos obligations contractuelles.
    Pour vous opposer, veuillez contacter notre Délégué à la Protection des Données à robin@sulitest.org. Nous étudierons attentivement votre objection et vous fournirons une réponse dans un délai d'un mois.
+
+Version: 032025
