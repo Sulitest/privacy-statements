@@ -140,4 +140,4 @@ The following security measures are in place to ensure the protection of your da
    If you object to the processing of your personal data, we may not be able to continue offering the assessment service, as it is necessary for maintaining test integrity. However, we will review all objections to determine if we can accommodate your request while still fulfilling our contractual obligation.
    To object, please contact our Data Protection Officer at robin@sulitest.org. We will carefully consider your objection and provide you with a response within 1 month.
 
-Version: 032025
+Version: 26-03-2025

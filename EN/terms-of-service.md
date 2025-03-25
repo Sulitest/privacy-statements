@@ -229,4 +229,4 @@ This section is detailed in the Privacy policy section II.
 2. Sulitest Impact reserves, to the extent which is permissible in compliance with the applicable regulations, the right to make changes and modifications of the Terms and Conditions in case of the occurrence of significant reasons related to the technical or substantive aspect of the operation of the Services. The changes will be published on an ongoing basis on the Service Provider's Services.
 3. The Terms and Conditions are valid beginning on January 1st, 2025.
 
-Version: 032025
+Version: 26-03-2025

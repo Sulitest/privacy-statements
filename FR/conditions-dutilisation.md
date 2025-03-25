@@ -221,4 +221,4 @@ Cette section est détaillée dans la politique de confidentialité (section II)
 2. Sulitest Impact se réserve, dans la mesure permise par la réglementation applicable, le droit d'apporter des modifications aux Conditions Générales en cas de raisons importantes liées à l'aspect technique ou substantiel du fonctionnement des Services. Les modifications seront publiées de manière continue sur les Services du Prestataire de Services.
 3. Les Conditions Générales entrent en vigueur le 1er janvier 2025.
 
-Version: 032025
+Version: 26-03-2025
