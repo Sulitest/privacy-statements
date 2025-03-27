@@ -99,8 +99,8 @@ En complétant l'inscription aux Services, l'Utilisateur déclare qu'il est prê
 6. L'Utilisateur accède à son Compte via une adresse e-mail (identifiant/nom d'utilisateur) et un mot de passe.
 7. Un Accord pour le maintien du Compte sur les Services est conclu pour une durée indéterminée et ne comporte aucune responsabilité financière pour l'Utilisateur.
 
-‍6\. **Délégation des données personnelles**  
-Ce paragraph est détaillé dans l'introduction de la politique de confidentialité
+‍6\. **Protection des données personnelles**  
+Ce paragraphe est détaillé dans l'introduction de la politique de confidentialité
 
 ## III. Conservation et Suppression des Données
 
@@ -221,4 +221,4 @@ Cette section est détaillée dans la politique de confidentialité (section II)
 2. Sulitest Impact se réserve, dans la mesure permise par la réglementation applicable, le droit d'apporter des modifications aux Conditions Générales en cas de raisons importantes liées à l'aspect technique ou substantiel du fonctionnement des Services. Les modifications seront publiées de manière continue sur les Services du Prestataire de Services.
 3. Les Conditions Générales entrent en vigueur le 1er janvier 2025.
 
-Version: 26-03-2025
+Version: 27-03-2025

@@ -141,4 +141,4 @@ En appliquant ces mesures de sécurité, nous garantissons que vos données sont
    Vous avez le droit de vous opposer au traitement de vos données personnelles pour des raisons d’intérêts légitimes, y compris le profilage. Si vous vous y opposez, nous cesserons de traiter vos données, sauf si nous avons des motifs légitimes impérieux qui prévalent sur vos intérêts, droits et libertés, ou si le traitement est nécessaire pour la constatation, l'exercice ou la défense de droits en justice. Si vous vous opposez au traitement de vos données personnelles, il est possible que nous ne puissions plus vous proposer le service d’évaluation, car ce traitement est nécessaire pour assurer l'intégrité des tests. Cependant, nous examinerons toutes les objections pour déterminer si nous pouvons répondre favorablement à votre demande tout en respectant nos obligations contractuelles.
    Pour vous opposer, veuillez contacter notre Délégué à la Protection des Données à robin@sulitest.org. Nous étudierons attentivement votre objection et vous fournirons une réponse dans un délai d'un mois.
 
-Version: 26-03-2025
+Version: 27-03-2025
